@@ -1,0 +1,15 @@
+C:\Users\storm\source\repos\CursedCode\CursedCode\bin\Debug\net6.0\CursedCode.exe
+C:\Users\storm\source\repos\CursedCode\CursedCode\bin\Debug\net6.0\CursedCode.deps.json
+C:\Users\storm\source\repos\CursedCode\CursedCode\bin\Debug\net6.0\CursedCode.runtimeconfig.json
+C:\Users\storm\source\repos\CursedCode\CursedCode\bin\Debug\net6.0\CursedCode.dll
+C:\Users\storm\source\repos\CursedCode\CursedCode\bin\Debug\net6.0\ref\CursedCode.dll
+C:\Users\storm\source\repos\CursedCode\CursedCode\bin\Debug\net6.0\CursedCode.pdb
+C:\Users\storm\source\repos\CursedCode\CursedCode\obj\Debug\net6.0\CursedCode.csproj.AssemblyReference.cache
+C:\Users\storm\source\repos\CursedCode\CursedCode\obj\Debug\net6.0\CursedCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\storm\source\repos\CursedCode\CursedCode\obj\Debug\net6.0\CursedCode.AssemblyInfoInputs.cache
+C:\Users\storm\source\repos\CursedCode\CursedCode\obj\Debug\net6.0\CursedCode.AssemblyInfo.cs
+C:\Users\storm\source\repos\CursedCode\CursedCode\obj\Debug\net6.0\CursedCode.csproj.CoreCompileInputs.cache
+C:\Users\storm\source\repos\CursedCode\CursedCode\obj\Debug\net6.0\CursedCode.dll
+C:\Users\storm\source\repos\CursedCode\CursedCode\obj\Debug\net6.0\ref\CursedCode.dll
+C:\Users\storm\source\repos\CursedCode\CursedCode\obj\Debug\net6.0\CursedCode.pdb
+C:\Users\storm\source\repos\CursedCode\CursedCode\obj\Debug\net6.0\CursedCode.genruntimeconfig.cache
